@@ -1,6 +1,6 @@
 http://example.com/tags/index.html
-http://example.com/2025/03/15/hello-world/
 http://example.com/categories/index.html
+http://example.com/2025/03/15/hello-world/
 http://example.com/
 http://example.com/tags/node-js/
 http://example.com/tags/hexo/
